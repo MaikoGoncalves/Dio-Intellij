@@ -7,7 +7,9 @@ public class DioIntellij {
         int a = 10;
         int b = 3;
         System.out.println("Soma de A + B = " + (a + b));
+        System.out.println("Soma de A - B = " + (a - b));
+        System.out.println("Soma de A * B = " + (a * b));
+        System.out.println("Soma de A / B = " + (a / b));
         System.out.println(gato);
-
     }
 }
